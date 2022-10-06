@@ -6,10 +6,10 @@
 
 `gin` 的一个例子，包含许多有用特性
 
-1. [Gin实践 连载一 Golang介绍与环境安装](https://book.eddycjy.com/golang/gin/install.html)
-2. [Gin实践 连载二 搭建Blog API's（一）](https://book.eddycjy.com/golang/gin/api-01.html)
-3. [Gin实践 连载三 搭建Blog API's（二）](https://book.eddycjy.com/golang/gin/api-02.html)
-4. [Gin实践 连载四 搭建Blog API's（三）](https://book.eddycjy.com/golang/gin/api-03.html)
+* [x] 1. [Gin实践 连载一 Golang介绍与环境安装](https://book.eddycjy.com/golang/gin/install.html)
+* [x] 2. [Gin实践 连载二 搭建Blog API's（一）](https://book.eddycjy.com/golang/gin/api-01.html)
+* [ ] 3. [Gin实践 连载三 搭建Blog API's（二）](https://book.eddycjy.com/golang/gin/api-02.html)
+* [ ] 4. [Gin实践 连载四 搭建Blog API's（三）](https://book.eddycjy.com/golang/gin/api-03.html)
 5. [Gin实践 连载五 使用JWT进行身份校验](https://book.eddycjy.com/golang/gin/jwt.html)
 6. [Gin实践 连载六 编写一个简单的文件日志](https://book.eddycjy.com/golang/gin/log.html)
 7. [Gin实践 连载七 Golang优雅重启HTTP服务](https://book.eddycjy.com/golang/gin/reload-http.html)
