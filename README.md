@@ -17,7 +17,7 @@
 * [ ] 9. [Gin实践 连载九 将Golang应用部署到Docker](https://book.eddycjy.com/golang/gin/golang-docker.html)
 * [ ] 10. [Gin实践 连载十 定制 GORM Callbacks](https://book.eddycjy.com/golang/gin/gorm-callback.html)
 * [ ] 11. [Gin实践 连载十一 Cron定时任务](https://book.eddycjy.com/golang/gin/cron.html)
-* [ ] * [ ] 12. [Gin实践 连载十二 优化配置结构及实现图片上传](https://book.eddycjy.com/golang/gin/config-upload.html)
+* [ ] 12. [Gin实践 连载十二 优化配置结构及实现图片上传](https://book.eddycjy.com/golang/gin/config-upload.html)
 * [ ] 13. [Gin实践 连载十三 优化你的应用结构和实现Redis缓存](https://book.eddycjy.com/golang/gin/application-redis.html)
 * [ ] 14. [Gin实践 连载十四 实现导出、导入 Excel](https://book.eddycjy.com/golang/gin/excel.html)
 * [ ] 15. [Gin实践 连载十五 生成二维码、合并海报](https://book.eddycjy.com/golang/gin/image.html)
